@@ -50,7 +50,7 @@ VAERSVAX
 5. Standardize reports by vaccine doses administered.
 6. Create exploratory visualizations.
 7. Perform statistical analyses.
-8. Document findings in R Markdown.
+
 
 ---
 
